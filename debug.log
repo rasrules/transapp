@@ -71,3 +71,4 @@
 2020-05-20 17:12:38 INFO     app.service.words ['nada']
 2020-05-20 17:12:38 INFO     app.service.words ['nada']
 2020-05-20 17:12:38 INFO     app.main.routes ['nada']
+2020-05-20 17:48:11 INFO     app.main.routes False
