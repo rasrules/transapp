@@ -1,0 +1,73 @@
+2020-05-20 15:15:12 ERROR    app.service.words Error while getting word : Cannot resolve field "translations"
+2020-05-20 15:22:11 ERROR    app.service.words Error while getting word : 'NoneType' object is not subscriptable
+2020-05-20 15:27:59 ERROR    app.service.words Error while getting word : 'NoneType' object is not subscriptable
+2020-05-20 15:35:52 ERROR    app.service.words Error while getting word : 'NoneType' object is not subscriptable
+2020-05-20 15:37:26 INFO     app.service.words None
+2020-05-20 15:37:26 ERROR    app.service.words Error while getting word : 'NoneType' object is not subscriptable
+2020-05-20 15:39:58 INFO     app.service.words None
+2020-05-20 15:39:58 ERROR    app.service.words Error while getting word : 'NoneType' object is not subscriptable
+2020-05-20 15:41:23 INFO     app.service.words None
+2020-05-20 15:41:23 INFO     app.service.words None
+2020-05-20 16:10:29 ERROR    app.service.words 'NoneType' object has no attribute 'save'
+2020-05-20 16:15:53 ERROR    app.service.words ValidationError (Word:None) (Not a valid language choice: ['language'])
+2020-05-20 16:19:53 INFO     app.service.words ['id']
+2020-05-20 16:20:10 INFO     app.service.words Word object
+2020-05-20 16:22:18 INFO     app.service.words Word object
+2020-05-20 16:22:18 INFO     app.service.words ['id']
+2020-05-20 16:25:42 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:42 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:42 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:51 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:51 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:51 INFO     app.service.words ['mar']
+2020-05-20 16:25:59 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:59 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:25:59 INFO     app.service.words ['mar']
+2020-05-20 16:26:36 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:26:36 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:26:36 INFO     app.service.words ['mar']
+2020-05-20 16:33:21 ERROR    app.service.words Error while checking spell word : The provided dictionary language (ef) does not exist!
+2020-05-20 16:35:21 INFO     app.service.words None
+2020-05-20 16:35:21 INFO     app.service.words None
+2020-05-20 16:41:23 INFO     app.service.words Word object
+2020-05-20 16:41:23 INFO     app.service.words ['mar', 'oc…ano']
+2020-05-20 16:41:23 INFO     app.service.words ['mar']
+2020-05-20 16:41:39 INFO     app.service.words None
+2020-05-20 16:41:39 INFO     app.service.words None
+2020-05-20 16:42:34 INFO     app.service.words Word object
+2020-05-20 16:42:34 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:42:34 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:56:25 INFO     app.service.words Word object
+2020-05-20 16:56:25 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:56:25 INFO     app.service.words ['oc…ano']
+2020-05-20 16:56:25 ERROR    app.main.routes group_get page or items per page invalid value: dictionary update sequence element #0 has length 6; 2 is required 
+2020-05-20 16:57:01 INFO     app.service.words Word object
+2020-05-20 16:57:01 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:57:01 INFO     app.service.words ['oc…ano']
+2020-05-20 16:57:01 ERROR    app.main.routes group_get page or items per page invalid value: dictionary update sequence element #0 has length 6; 2 is required 
+2020-05-20 16:58:50 INFO     app.service.words Word object
+2020-05-20 16:58:50 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:58:50 INFO     app.service.words ['oc…ano']
+2020-05-20 16:58:50 INFO     app.main.routes ['oc…ano']
+2020-05-20 16:58:50 ERROR    app.main.routes group_get page or items per page invalid value: dictionary update sequence element #0 has length 6; 2 is required 
+2020-05-20 16:59:41 INFO     app.service.words Word object
+2020-05-20 16:59:41 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 16:59:41 INFO     app.service.words ['oc…ano']
+2020-05-20 16:59:41 INFO     app.main.routes ['oc…ano']
+2020-05-20 17:00:01 INFO     app.service.words None
+2020-05-20 17:00:01 INFO     app.service.words None
+2020-05-20 17:00:01 INFO     app.main.routes None
+2020-05-20 17:03:23 ERROR    app.main.routes group_get page or items per page invalid value:  
+2020-05-20 17:03:33 ERROR    app.main.routes group_get page or items per page invalid value:  
+2020-05-20 17:03:42 ERROR    app.main.routes group_get page or items per page invalid value:  
+2020-05-20 17:03:49 INFO     app.service.words Word object
+2020-05-20 17:03:49 INFO     app.service.words ['oc…ano', 'mar']
+2020-05-20 17:03:49 INFO     app.service.words ['oc…ano']
+2020-05-20 17:03:49 INFO     app.main.routes ['oc…ano']
+2020-05-20 17:05:39 ERROR    app.main.routes group_get page or items per page invalid value:  
+2020-05-20 17:11:57 ERROR    app.main.routes remove_translation :  
+2020-05-20 17:12:17 INFO     app.main.routes True
+2020-05-20 17:12:38 INFO     app.service.words Word object
+2020-05-20 17:12:38 INFO     app.service.words ['nada']
+2020-05-20 17:12:38 INFO     app.service.words ['nada']
+2020-05-20 17:12:38 INFO     app.main.routes ['nada']
