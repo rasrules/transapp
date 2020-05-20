@@ -28,5 +28,7 @@
 *.sdf
 *.pyc
 
+__pycache__/
+.vscode/
 .vscode/**
 __pycache__/**
